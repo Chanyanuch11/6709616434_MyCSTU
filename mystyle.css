@@ -1,0 +1,35 @@
+body {
+      background-color: cornsilk;
+      font-family: comic sans ms,cursive;
+  }
+  
+  p {
+      font-size: 22px;
+      text-align: center;
+  
+  }
+  
+  .para {
+      text-align: left;
+      margin-left: 60px;
+  }
+  
+  h2 {
+      text-align: center;
+  }
+  
+  header {
+      background-color: lightpink;
+      padding: 5px;
+      text-align: center;
+  }
+  
+  footer {
+      background-color: lightpink;
+      padding: 15px;
+  }
+  
+  figcaption {
+      font-size: 22px;
+      text-align: center;
+  }
